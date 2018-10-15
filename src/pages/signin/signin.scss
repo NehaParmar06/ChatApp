@@ -1,0 +1,18 @@
+page-signin {
+    ion-content {
+        background: url(../assets/imgs/background.jpg) no-repeat center center fixed;
+        background-size: cover;
+        height: 100%;
+        overflow: hidden;
+        .item-md, .item-ios {
+          background: none;
+        }
+        
+      }
+    //   .label{
+    //       color: red;
+    //   }
+    //   .div.fixed-contenet{
+    //       background-color: #80ffcc;
+    //   }
+}
